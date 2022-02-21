@@ -23,3 +23,7 @@ Graphviz,
 
 EXAMPLE:
 
+Run ```python3 milestone1.py --representation AST``` and the output should begin with ![This is an image](images/AST_output.png).
+Run ```python3 milestone1.py --representation CG``` and the output should be ![This is an image](images/pycallgraph.png).
+Run ```python3 milestone1.py --representation CFG``` and the output should be ![This is an image](images/RayWorkflows_api_CFG.pdf).
+
