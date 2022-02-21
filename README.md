@@ -28,7 +28,9 @@ Run ```python3 milestone1.py --representation AST``` and the output should begin
 
 
 
-Run ```python3 milestone1.py --representation CG``` and the output should be ![this](images/pycallgraph.png).
+Run ```python3 milestone1.py --representation CG``` and the output should be 
+
+![this](images/pycallgraph.png).
 
 
 
