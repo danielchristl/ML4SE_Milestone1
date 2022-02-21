@@ -6,7 +6,7 @@ The script milestone1.py prints out representations for the Ray package. The fla
 
 CG will output a file with the relevant CG
 
-CFG will output a file with the relevant CFG (output is for the api.py file)
+CFG will output a file with the relevant CFG (api.py file is used as input)
 
 
 ## REQUIREMENTS:
@@ -19,7 +19,7 @@ sklearn,
 astpretty,
 pycallgraph,
 staticfg,
-Graphviz,
+Graphviz
 
 
 ## EXAMPLE:
