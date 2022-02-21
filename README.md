@@ -38,3 +38,7 @@ Run ```python3 milestone1.py --representation CG``` and the output should be
 
 Run ```python3 milestone1.py --representation CFG``` and the output should be ![this](images/RayWorkflows_api_CFG.pdf).
 
+This Call Graph is from another example project, named plantuml. We're including this project for bonus point option. The image is: 
+
+![this](images/plantuml.png)
+
