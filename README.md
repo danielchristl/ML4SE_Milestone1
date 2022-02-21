@@ -12,11 +12,11 @@ Environments:
 python3, at least version 3.6
 
 Packages:
-sklearn
-astpretty
-pycallgraph
-staticfg
-Graphviz
+sklearn,
+astpretty,
+pycallgraph,
+staticfg,
+Graphviz,
 
 
 EXAMPLE:
